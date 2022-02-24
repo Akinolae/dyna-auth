@@ -1,0 +1,27 @@
+{
+  "name": "dyna-auth",
+  "version": "1.0.0",
+  "description": "Modularized authentication service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akinolae/dyna-auth.git"
+  },
+  "keywords": [
+    "[\"Auth\"]"
+  ],
+  "author": "Akinola Makinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akinolae/dyna-auth/issues"
+  },
+  "homepage": "https://github.com/Akinolae/dyna-auth#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.3"
+  }
+}
